@@ -1,7 +1,7 @@
 p4vosxterm
 ==========
 
-Allows you to use a terminal other than Terminal in Perforce P4V on OS X
+Allows you to use a terminal other than Terminal (namely iTerm) in Perforce P4V on OS X
 
 It's a quick, untested hack, so read through the install script.
 
